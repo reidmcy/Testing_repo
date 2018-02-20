@@ -6,7 +6,7 @@ notebooks/shared/*
 *.json
 old/
 
->>>>>>> 1d265bbf562a9aea8e6fe08945cfe924f30e1345
+.DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -29,10 +29,7 @@ lib64/
 parts/
 sdist/
 var/
-<<<<<<< HEAD
 wheels/
-=======
->>>>>>> 1d265bbf562a9aea8e6fe08945cfe924f30e1345
 *.egg-info/
 .installed.cfg
 *.egg
@@ -133,5 +130,3 @@ ENV/
 # Rope project settings
 .ropeproject
 >>>>>>> 1d265bbf562a9aea8e6fe08945cfe924f30e1345
-
-
