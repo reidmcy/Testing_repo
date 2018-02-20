@@ -127,8 +127,11 @@ ENV/
 
 # mypy
 .mypy_cache/
+.DS_store
 =======
 
 # Rope project settings
 .ropeproject
 >>>>>>> 1d265bbf562a9aea8e6fe08945cfe924f30e1345
+
+
